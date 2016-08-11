@@ -13,3 +13,9 @@ $ sqlite3 Accounts3.sqlite
 # to get a list of the email accounts in the database
 > select zusername from zaccount;
 # You will be presented with a list of email accounts past and present
+
+
+# This is a good tutorial
+# How and When to Use Sqlite
+
+# https://www.digitalocean.com/community/tutorials/how-and-when-to-use-sqlite
