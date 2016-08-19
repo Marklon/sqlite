@@ -1,5 +1,6 @@
-#Part of OS X & macOS, Apps like Mail & Calendar leverage this single user database. 
-# From ~/Library/Accounts/Accounts3.sqlite (10.10+), I want you to get a list of all email accounts (past & present) on that system (this # will require use of .open, .schema and a select SQL statement).
+# Part of OS X & macOS, Apps like Mail & Calendar leverage this single user database. 
+# From ~/Library/Accounts/Accounts3.sqlite (10.10+), I want you to get a list of all email accounts (past & present) on 
+# that system (this # will require use of .open, .schema and a select SQL statement).
 
 
 # Inside ~/Library/Accounts/ there are 3 database files
